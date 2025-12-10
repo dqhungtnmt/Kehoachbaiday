@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Đinh Quốc Hưng - Trường TH Vân Sơn - ĐT: 0344 805 706706</p>
+    <p>Tác giả: Đinh Quốc Hưng - Trường TH Vân Sơn - ĐT: 0344 805 706</p>
 </div>
 """, unsafe_allow_html=True)
 
